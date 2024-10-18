@@ -8,7 +8,6 @@ The game I am going to make is a 2D Platformer.
 * Ninja getting through obstacles in dojo to become master
 * Flappy bird inspired game
 * Mario inspired platformer game
-* 
 
 #### Need
-The need for my game is a result of the lack of interest and demand for 2D platformers. My game addresses this with
+The need for my game is a result of the lack of interest and demand for 2D platformers. My game addresses this with fun design and unique/challenging obstacles.
