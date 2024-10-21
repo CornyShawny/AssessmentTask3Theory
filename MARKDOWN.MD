@@ -23,9 +23,10 @@ The skills used in my game are all from
 User inputs will include arrow, WASD keys and the spacebar for movement (W key, the up arrow key, and the space bar for jumping), shift button for sprinting, and ctrl button for crouching.
 
 #### Processing
-The program will check for collisions
+The program will check for collisions, calculate the new position of the player, 
 
 #### Outputs
+The game will display the character's new position, and a game-over message.
 
 #### Transmission
 
