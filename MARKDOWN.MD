@@ -20,8 +20,10 @@ The skills used in my game are all from
 
 ### **Requirements Outline**
 #### Inputs
+User inputs will include arrow, WASD keys and the spacebar for movement (W key, the up arrow key, and the space bar for jumping), shift button for sprinting, and ctrl button for crouching.
 
 #### Processing
+The program will check for collisions
 
 #### Outputs
 
