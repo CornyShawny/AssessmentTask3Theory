@@ -29,5 +29,41 @@ The program will check for collisions, calculate the new position of the player,
 The game will display the character's new position, and a game-over message.
 
 #### Transmission
+My game will not require any data transmission.
 
 #### Storage
+The game will not store any data as there are levels.
+
+### **Functional Requirements**
+#### User Interaction
+
+
+#### Core Gameplay
+
+
+#### Scoring and Feedback
+
+
+#### Level Progression
+
+
+#### Saving and Loading Data
+
+
+### **Non-Functional Requirements Instructions**
+#### Performance Requirements
+
+
+#### Usability Requirements
+
+
+#### Compatibility Requirements
+
+
+#### Scalability Requirements
+
+
+#### Security Requirements
+
+
+#### Reliability and Availability
