@@ -64,3 +64,13 @@ The game should be able to scale for the addition of new levels and features wit
 Equity: 
 
 Accessibility:
+
+#### Accessibility
+
+#### Privacy and Data Protection
+
+#### Fairness and Representation
+
+#### Mental and Emotional Well-Being
+
+#### Cultural Sensitivities
