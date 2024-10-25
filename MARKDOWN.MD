@@ -66,8 +66,10 @@ Equity: Equity refers to the quality of being fair and impartial.
 Accessibility: Accessibility refers to the quality of being easy to obtain or use.
 
 #### Accessibility
+My project will be usable by most people as there are subtitles, but lacks the ability to change controls or adjust the game visually, which could make my game unusable to some.
 
 #### Privacy and Data Protection
+
 
 #### Fairness and Representation
 
