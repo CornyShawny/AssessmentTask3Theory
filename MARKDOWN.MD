@@ -61,9 +61,9 @@ The game must be compatible on PC with mouse and keyboard.
 The game should be able to scale for the addition of new levels and features without impacting performance.
 
 ### **Consideration of Social and Ethical Issues**
-Equity: 
+Equity: Equity refers to the quality of being fair and impartial.
 
-Accessibility:
+Accessibility: Accessibility refers to the quality of being easy to obtain or use.
 
 #### Accessibility
 
