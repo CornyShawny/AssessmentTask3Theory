@@ -69,10 +69,13 @@ Accessibility: Accessibility refers to the quality of being easy to obtain or us
 My project will be usable by most people as there are subtitles, but lacks the ability to change controls or adjust the game visually, which could make my game unusable to some.
 
 #### Privacy and Data Protection
-
+My project will not collect any user data to ensure privacy and the safety of the user.
 
 #### Fairness and Representation
+My project avoids gender, race, or cultural stereotypes as it is a simple game with a simple concept, just with some changes to characters and the setting, and possibly mechanics. I will make sure to do some research on ninja culture to make sure I am not misrepresenting or disrespecting it.
 
 #### Mental and Emotional Well-Being
+My game doesn't affect users' mental health as it does not contain graphic content. It is supposed to be a cartoony, fun and challenging 2D platformer with combat and boss mechanics, which promotes a positive and child-friendly experience.
 
 #### Cultural Sensitivities
+My game could be offensive to some cultures, but I will make sure to do research before adding stuff in to not disrespect any culture.
