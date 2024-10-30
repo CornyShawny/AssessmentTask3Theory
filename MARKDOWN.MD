@@ -2,7 +2,7 @@
 
 ### **Identifying a Need**
 #### Game Idea
-The game I am going to make is a 2D Platformer with a ninja character, running through a dojo, with a boss fight at the end.
+The game I am going to make is a 2D Platformer with a ninja character that runs through a dojo and collects coins, with a boss fight at the end.
 
 #### Brainstorming
 * Ninja getting through obstacles in dojo to become master
@@ -42,7 +42,7 @@ The user interacts using keyboard commands for advanced movement, and mouse clic
 My game includes mechanics like advanced movement and combat. For the movement, the character will move, the advanced part includes sprinting and crouching. Crouching lowers the players hitbox, and sprinting makes the player run faster. For combat, there is just an attack aand a block button which reflects projectiles.
 
 #### Level Progression
-To move onto the next level in my game, you have to get past all the obstacles and get to the end, then you will progress onto the next level.
+To move onto the next level in my game, you have to get past all the obstacles and collect all the coins, then you will progress onto the next level.
 
 #### Saving and Loading Data
 My project does not save/store data.
