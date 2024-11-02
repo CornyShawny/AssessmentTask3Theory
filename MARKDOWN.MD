@@ -16,7 +16,7 @@ The need for my game is to repopularise 2D platformers with an engaging and attr
 Loss of interest and demand for 2D platformers has been evident. My game addresses this with fun design and unique/challenging obstacles, as well as a boss fight at the end. This will attract and repopularise the 2D platformer genre as a whole.
 
 #### Skill Development
-The skills used in my game are all from 
+To develop the skills required to create this game, I would watch through this 2D platformer tutorial: https://www.youtube.com/watch?v=-ixk2uxEc94&list=PLiyfvmtjWC_Up8XNvM3OSqgbJoMQgHkVz&pp=iAQB
 
 ### **Requirements Outline**
 #### Inputs
