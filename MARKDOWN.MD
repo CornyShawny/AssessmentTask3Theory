@@ -39,7 +39,7 @@ The game will not store any data as there are levels.
 The user interacts using keyboard commands for advanced movement, and mouse clicks for to select/press buttons on the menu/defeat screen resulting in either the game ending or you restart. Mouse clicks are also used for your character to attack or block.
 
 #### Core Gameplay:
-My game includes mechanics like advanced movement and combat. For the movement, the character will move, the advanced part includes sprinting and crouching. Crouching lowers the players hitbox, and sprinting makes the player run faster. For combat, there is just an attack aand a block button which reflects projectiles.
+My game includes mechanics like advanced movement and combat. For the movement, the character will move, the advanced part includes sprinting and crouching. Crouching lowers the players hitbox, and sprinting makes the player run faster. For combat, there is just an attack and a block button which reflects projectiles.
 
 #### Scoring and Feedback:
 My game will have a form of a progress tracker, which tracks how many coins you have collected and will also display how many coins you need to collect to progress to the next level. The progress system triggers whenever you touch/collect a coin.
