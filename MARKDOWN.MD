@@ -97,3 +97,6 @@ My game could be offensive to some cultures, but I will make sure to do research
 ![alt text](Flowchart/Level.png)
 ![alt text](Flowchart/Scoring.png)
 
+### **Storyboards**
+
+### **Gantt Chart**
