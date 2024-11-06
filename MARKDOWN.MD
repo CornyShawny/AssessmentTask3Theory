@@ -88,4 +88,12 @@ My game could be offensive to some cultures, but I will make sure to do research
 | Cuphead ![alt text](PMI/CupheadPMI.png) | Cuphead has done boss battles well, it implements hard and challenging boss battles that shoot projectiles that you have to dodge. You also have to attack the boss until it dies. The graphics are cartoonish and have nice animations. | In Cuphead, the boss battles might be too hard, can controls might be too complicated for younger children. The graphics might not be suitable for children. | I will implement interactive boss battles, make the boss shoot projectiles at the player, but not make it too difficult, and use stunning graphics to attract and engage players of all ages. |
 | Sonic The Hedgehog ![alt text](PMI/SonicPMI.png) | Sonic The Hedgehog has used an interesting coin system, sprinting/boosting and crouching movement system, and unique obstacles. | The obstacles might be too easy/simple, so it disengages players and reduces the replayability. | I will avoid easy and repetitive levels and obstacles, and I will implement the coin system, and sprinting/crouching movement system to add variety to my game. |
 
-### **Pseudocode and Flowchart
+### **Pseudocode and Flowchart**
+![alt text](Pseudocode/GameplayPseudocode.png)
+![alt text](Pseudocode/LevelPseudocode.png)
+![alt text](Pseudocode/ScoringPseudocode.png)
+
+![alt text](Flowchart/Gameplay.png)
+![alt text](Flowchart/Level.png)
+![alt text](Flowchart/Scoring.png)
+
