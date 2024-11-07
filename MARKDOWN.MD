@@ -13,7 +13,7 @@ The game I am going to make is a 2D Platformer with a ninja character that runs 
 The need for my game is to repopularise 2D platformers with an engaging and attractive game.
 
 #### Problem Statement:
-Loss of interest and demand for 2D platformers has been evident. My game addresses this with fun design and unique/challenging obstacles, as well as a boss fight at the end. This will attract and repopularise the 2D platformer genre as a whole.
+Loss of interest and demand for 2D platformers has been evident. My game addresses this with fun design and unique/challenging obstacles and enemies, as well as a boss fight at the end. This will attract and repopularise the 2D platformer genre as a whole.
 
 #### Skill Development:
 To develop the skills required to create this game, I would watch through this 2D platformer tutorial youtube playlist: https://www.youtube.com/watch?v=-ixk2uxEc94&list=PLiyfvmtjWC_Up8XNvM3OSqgbJoMQgHkVz&pp=iAQB
@@ -45,7 +45,7 @@ My game includes mechanics like advanced movement and combat. For the movement, 
 My game will have a form of a progress tracker, which tracks how many coins you have collected and will also display how many coins you need to collect to progress to the next level. The progress system triggers whenever you touch/collect a coin.
 
 #### Level Progression:
-To move onto the next level in my game, you have to get past all the obstacles and collect all the coins, then you will progress onto the next level.
+To move onto the next level in my game, you have to get past all the obstacles and enemies, and collect all the coins, then you will progress onto the next level.
 
 ### **Non-Functional Requirements Instructions**
 #### Performance Requirements:
@@ -97,6 +97,12 @@ My game could be offensive to some cultures, but I will make sure to do research
 ![alt text](Flowchart/Level.png)
 ![alt text](Flowchart/Scoring.png)
 
-### **Storyboards**
+### **Storyboard**
+![alt text](Storyboard/GameOver.png)
+![alt text](Storyboard/Instructions.png)
+![alt text](Storyboard/Splashscreen.png)
+![alt text](Storyboard/Level1.png)
+![alt text](Storyboard/StoryboardFlowchart.png)
 
 ### **Gantt Chart**
+![alt text](GanttChart.png)
